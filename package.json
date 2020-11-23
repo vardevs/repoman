@@ -1,0 +1,14 @@
+{
+  "name": "repoman",
+  "version": "1.0.0",
+  "description": "Repository manager",
+  "main": "index.js",
+  "repository": "https://github.com/dhis2/repoman",
+  "author": "Viktor Varland",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@octokit/core": "^3.2.1",
+    "bluebird": "^3.7.2"
+  }
+}
