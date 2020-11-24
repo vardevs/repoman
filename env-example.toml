@@ -1,0 +1,10 @@
+# copy to `env.toml` and fill out the values
+
+github_token = "<your github pat here, it needs admin privileges>"
+owner = "<owner or org to operate on>"
+secrets = [
+    "<all the secrets to add to repos>"
+]
+teams = [
+    { name = "<team name>", permission = "<permission>" }
+]
